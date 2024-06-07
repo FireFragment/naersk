@@ -1,5 +1,7 @@
 # Naersk
 
+This is a testing commit
+
 [![GitHub Actions](https://github.com/nix-community/naersk/workflows/test/badge.svg?branch=master)](https://github.com/nix-community/naersk/actions)
 
 Build Rust projects with ease!
